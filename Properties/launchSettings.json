@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "test_durable_csharp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7037",
+      "launchBrowser": false
+    }
+  }
+}
